@@ -46,3 +46,13 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+social{
+	background-color: orange;
+	font-style: italic;
+}
+
+tooltip{
+	font-style: oblique;
+	
+}
